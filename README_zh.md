@@ -1,10 +1,10 @@
 # [会思考的AI心理咨询师（SoulChat-R1）](https://github.com/scutcyr/SoulChat-R1)
 
-\[ [English](./README_en.md) | 中文 \]
+\[ [English](./README.md) | 中文 \]
 
 ## 最近更新
 
-- 👏🏻  2025.XX.XX：欢迎大家关注我们的工作：[CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity
+- 👏🏻  2025.09.04：欢迎大家关注我们的工作：[CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity
 and Memory-Driven Planning Chain of Thought in AI Counseling](https://arxiv.org/pdf/2412.13660) <!-- github链接待修改 --> 已经成功被 EMNLP 2025 Findings 接收！🎉
 
 ## 简介

@@ -1,4 +1,4 @@
-# [SoulChat-R1: A Thinking AI Counselor](https://github.com/scutcyr/SoulChat-R1)
+# [SoulChat-R1: SST-based Multi-turn Psychological Counseling CoT Dataset used Progressive Dialogue Synthesis and Memory-driven Dynamic Planning Chain-of-Thought](https://github.com/scutcyr/SoulChat-R1)
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2412.13660"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>

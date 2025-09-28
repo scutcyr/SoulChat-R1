@@ -4,7 +4,7 @@
 
 ## Recent Updates
 
-- 👏🏻 2025.XX.XX: We are pleased to announce that our work: [CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity and Memory-Driven Planning Chain of Thought in AI Counseling](https://arxiv.org/pdf/2412.13660) <!-- github link to be updated --> has been accepted by EMNLP 2025 Findings! 🎉
+- 👏🏻 2025.09.04: We are pleased to announce that our work: [CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity and Memory-Driven Planning Chain of Thought in AI Counseling](https://arxiv.org/pdf/2412.13660) <!-- github link to be updated --> has been accepted by EMNLP 2025 Findings! 🎉
 
 ## Introduction
 

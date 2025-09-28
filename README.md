@@ -13,7 +13,7 @@
 \[ [中文](./README_zh.md) | English \]
 
 ## Recent Updates
-
+- 👏🏻 2025.09.28: Now, you can download the **SoulChat-R1** dataset from：[https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChat-R1](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChat-R1)!
 - 👏🏻 2025.09.04: We are pleased to announce that our work: [CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity and Memory-Driven Planning Chain of Thought in AI Counseling](https://arxiv.org/pdf/2412.13660) <!-- github link to be updated --> has been accepted by EMNLP 2025 Findings! 🎉
 
 ## Introduction

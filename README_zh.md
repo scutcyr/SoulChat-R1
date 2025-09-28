@@ -1,7 +1,7 @@
 # [基于一次单元咨询疗法指导与渐进式动态规划思维链的多轮心理健康思维链对话数据集（SoulChat-R1）](https://github.com/scutcyr/SoulChat-R1)
 
 <p align="center">
-    <a href="https://arxiv.org/pdf/2412.13660"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
+    <a href=""><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-red.svg"></a>
     <a href="support os"><img src="https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg"></a>
     <a href="https://github.com/scutcyr/SoulChat-R1/graphs/contributors"><img src="https://img.shields.io/github/contributors/scutcyr/SoulChat-R1?color=9ea"></a>
@@ -15,7 +15,7 @@
 ## 最近更新
 - 👏🏻  2025.09.28：欢迎大家下载SoulChat-R1数据集：[https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChat-R1](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChat-R1)！
 - 👏🏻  2025.09.04：欢迎大家关注我们的工作：[CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity
-and Memory-Driven Planning Chain of Thought in AI Counseling](https://arxiv.org/pdf/2412.13660) <!-- github链接待修改 --> 已经成功被 EMNLP 2025 Findings 接收！🎉
+and Memory-Driven Planning Chain of Thought in AI Counseling]() <!-- github链接待修改 --> 已经成功被 EMNLP 2025 Findings 接收！🎉
 
 ## 简介
 

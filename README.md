@@ -9,10 +9,6 @@
     <a href="https://github.com/scutcyr/SoulChat-R1/issues"><img src="https://img.shields.io/github/issues/scutcyr/SoulChat-R1?color=9cc"></a>
     <a href="https://github.com/scutcyr/SoulChat-R1/stargazers"><img src="https://img.shields.io/github/stars/scutcyr/SoulChat-R1?color=ccf"></a>
 </p>
-<p align="center">
-    <img src="./figure/PsyDT_poster.png" width=900px/>
-</p>
-
 
 \[ [中文](./README_zh.md) | English \]
 

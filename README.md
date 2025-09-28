@@ -1,6 +1,6 @@
 # [SoulChat-R1: A Thinking AI Counselor](https://github.com/scutcyr/SoulChat-R1)
 
-\[ [中文](./README.md) | English \]
+\[ [中文](./README_zh.md) | English \]
 
 ## Recent Updates
 

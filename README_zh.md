@@ -1,5 +1,15 @@
 # [会思考的AI心理咨询师（SoulChat-R1）](https://github.com/scutcyr/SoulChat-R1)
 
+<p align="center">
+    <a href="https://arxiv.org/pdf/2412.13660"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-red.svg"></a>
+    <a href="support os"><img src="https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg"></a>
+    <a href="https://github.com/scutcyr/SoulChat-R1/graphs/contributors"><img src="https://img.shields.io/github/contributors/scutcyr/SoulChat-R1?color=9ea"></a>
+    <a href="https://github.com/scutcyr/SoulChat-R1/commits"><img src="https://img.shields.io/github/commit-activity/m/scutcyr/SoulChat-R1?color=3af"></a>
+    <a href="https://github.com/scutcyr/SoulChat-R1/issues"><img src="https://img.shields.io/github/issues/scutcyr/SoulChat-R1?color=9cc"></a>
+    <a href="https://github.com/scutcyr/SoulChat-R1/stargazers"><img src="https://img.shields.io/github/stars/scutcyr/SoulChat-R1?color=ccf"></a>
+</p>
+
 \[ [English](./README.md) | 中文 \]
 
 ## 最近更新

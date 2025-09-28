@@ -1,4 +1,4 @@
-# [会思考的AI心理咨询师（SoulChat-R1）](https://github.com/scutcyr/SoulChat-R1)
+# [基于一次单元咨询疗法指导与渐进式动态规划思维链的多轮心理健康思维链对话数据集（SoulChat-R1）](https://github.com/scutcyr/SoulChat-R1)
 
 <p align="center">
     <a href="https://arxiv.org/pdf/2412.13660"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>

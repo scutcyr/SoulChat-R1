@@ -26,14 +26,20 @@ These limitations cause AI counseling models to be prone to **therapy drift** du
 
 ## Methodology
 
-**CATCH** is an innovative data synthesis framework, whose core lies in solving two key challenges in AI counseling: **low therapy fidelity** and **opaque decision logic**. To this end, CATCH consists of two complementary components:
+**CATCH** is a novel data synthesis framework designed to address two key challenges in AI counseling: **low therapy fidelity** and **opaque decision logic**. The framework is designed to be compatible with various forms of Structured Psychotherapy, which are guided by clear theoretical frameworks and standardized procedures, offering an ideal blueprint to resolve the issue of **Therapy Drift** in AI counseling.
+
+In this work, we select **Single-Session Therapy (SST)** as the representative therapy to apply and validate the CATCH framework. The choice of SST is primarily based on the following considerations:
+- **Structural Clarity**: SST follows a highly structured procedure, including the clear steps of setting the counseling goal, activating resources, and planning actions. This provides explicit guidance for synthesizing high-fidelity dialogues in a stage-by-stage manner.
+- **Scenario Alignment**: SST considers each session as an independent intervention that addresses the client's most pressing issue. This model is highly compatible with the use of AI counseling as an on-demand support tool, which also facilitates the implementation and evaluation of our study.
+
+CATCH consists of two complementary components:
 
 1.  **Progressive Dialogue Synthesis (PDS)**: Enhances the **therapy fidelity** of dialogues.
 2.  **Memory-driven Dynamic Planning Chain-of-Thought (MDP CoT)**: Reveals the **decision-making rationale** behind each response.
 
 ### (1) Progressive Dialogue Synthesis (PDS)
 
-To overcome the issues of disordered therapeutic processes and low fidelity caused by the existing "one-time generation" method, CATCH proposes the **Progressive Dialogue Synthesis (PDS)** strategy. PDS strictly adheres to the theoretical framework of **Single-Session Therapy (SST)**, decomposing the counseling process into three structured stages: **Goal Identification**, **Working**, and **Ending**. The dialogue content is not generated all at once but is synthesized **incrementally, stage by stage**, ensuring that each interaction precisely aligns with the established therapeutic protocol.
+To overcome the issues of disordered therapeutic processes and low fidelity caused by the existing "one-time generation" method, CATCH proposes the **Progressive Dialogue Synthesis (PDS)** strategy. PDS strictly adheres to the theoretical framework of **SST**, decomposing the counseling process into three structured stages: **Goal Identification**, **Working**, and **Ending**. The dialogue content is not generated all at once but is synthesized **incrementally, stage by stage**, ensuring that each interaction precisely aligns with the established therapeutic protocol.
 
 The PDS process begins with authentic client self-reports. First, a Large Language Model (LLM) extracts and generates the core therapeutic elements required for each stage from the self-report, forming a structured **dialogue outline**:
 

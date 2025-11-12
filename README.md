@@ -10,6 +10,11 @@
     <a href="https://github.com/scutcyr/SoulChat-R1/stargazers"><img src="https://img.shields.io/github/stars/scutcyr/SoulChat-R1?color=ccf"></a>
 </p>
 
+</p>
+<p align="center">
+    <img src="./figure/CATCH_Poster.png" width=900px/>
+</p>
+
 \[ [中文](./README_zh.md) | English \]
 
 ## Recent Updates

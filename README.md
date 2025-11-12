@@ -1,7 +1,7 @@
 # [SoulChat-R1: SST-based Multi-turn Psychological Counseling CoT Dataset](https://github.com/scutcyr/SoulChat-R1)
 
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.543.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-red.svg"></a>
     <a href="support os"><img src="https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg"></a>
     <a href="https://github.com/scutcyr/SoulChat-R1/graphs/contributors"><img src="https://img.shields.io/github/contributors/scutcyr/SoulChat-R1?color=9ea"></a>

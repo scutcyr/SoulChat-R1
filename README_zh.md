@@ -15,7 +15,7 @@
 ## 最近更新
 - 👏🏻  2025.09.28：欢迎大家下载SoulChat-R1数据集：[https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChat-R1](https://www.modelscope.cn/datasets/YIRONGCHEN/SoulChat-R1)！
 - 👏🏻  2025.09.04：欢迎大家关注我们的工作：[CATCH: A Novel Data Synthesis Framework for High Therapy Fidelity
-and Memory-Driven Planning Chain of Thought in AI Counseling](https://arxiv.org/abs/2509.25733) <!-- github链接待修改 --> 已经成功被 EMNLP 2025 Findings 接收！🎉
+and Memory-Driven Planning Chain of Thought in AI Counseling](https://aclanthology.org/2025.findings-emnlp.543) <!-- github链接待修改 --> 已经成功被 EMNLP 2025 Findings 接收！🎉
 
 ## 简介
 

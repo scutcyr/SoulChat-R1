@@ -339,3 +339,30 @@ This case demonstrates CATCH's complete grasp of therapeutic logic in the ending
 | `system` | string | **System prompt**. Provides the SST therapy knowledge background to ensure the professionalism and consistency of the model's reasoning. |
 | `output` | string | **Core output**. Contains the **MDP CoT** (the counselor's complete thought process) within the `<think>...</think>` tags, followed by the final generated **counselor response**. |
 | `history` | list[list[string]] | **Context**. The dialogue history organized in the format `[ [client utterance, counselor response], ... ]`, providing the necessary context for reasoning in the current turn. |
+
+## Citation
+```bib
+@inproceedings{chen-etal-2025-catch,
+    title = "{CATCH}: A Novel Data Synthesis Framework for High Therapy Fidelity and Memory-Driven Planning Chain of Thought in {AI} Counseling",
+    author = "Chen, Mingyu  and
+      Lin, Jingkai  and
+      Chu, Zhaojie  and
+      Xing, Xiaofen  and
+      Chen, Yirong  and
+      Xu, Xiangmin",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.543/",
+    doi = "10.18653/v1/2025.findings-emnlp.543",
+    pages = "10254--10286",
+    ISBN = "979-8-89176-335-7",
+    abstract = "Recently, advancements in AI counseling based on large language models have shown significant progress. However, existing studies employ a one-time generation approach to synthesize multi-turn dialogue samples, resulting in low therapy fidelity and failing to capture the decision-making rationale behind each response. In this work, we propose CATCH, a novel data synthesis framework designed to address these challenges. Specifically, to improve therapy fidelity, we introduce the Progressive Dialogue Synthesis strategy, which extracts goals, resources, and solutions from a client{'}s self-report, organizes them into structured outlines, and then incrementally generates stage-aligned counseling dialogues. To capture decision-making rationale behind each response, we propose the Memory-Driven Dynamic Planning thinking pattern that integrates memory enhancement, global planning, and strategy reasoning; a collaborative multi-agent optimizer then leverages MDP to attach explicit chain-of-thought to each dialogue turn. Extensive experiments and human evaluations demonstrate that CATCH significantly enhances fidelity and logical coherence in AI counseling."
+}
+```
